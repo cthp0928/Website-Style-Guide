@@ -1,0 +1,117 @@
+*{
+    font-family: Merriweather;
+}
+
+div.colors{
+    border: dotted 1px black;
+    text-align: center;
+}
+
+div.color-block1{
+    display: inline-block;
+    width: 15%;
+    margin: 10px auto;
+    background-color:#CCD5AE;
+    text-align: center;
+
+}
+
+div.color-block2{
+    display: inline-block;
+    width: 15%;
+    margin: 10px auto;
+    background-color: #E9EDC9;
+    text-align: center;
+}
+
+div.color-block3{
+    display: inline-block;
+    width: 15%;
+    margin: 10px auto;
+    background-color: #FEFAE0;
+    text-align: center;
+}
+
+div.color-block4{
+    display: inline-block;
+    width:15%;
+    margin:10px auto;
+    background-color: #FAEDCD;
+    text-align: center;
+}
+
+div.color-block5{
+    display: inline-block;
+    width:15%;
+    margin:10px auto;
+    background-color:#D4A373;
+    text-align: center;
+}
+
+div.fonts{
+    border: dotted 1px black;
+    text-align: center;
+}
+
+p.font-label{
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+div.font1{
+    display: inline-block;
+    width: 30%;
+}
+
+div.font2{
+    display: inline-block;
+    width:30%;
+}
+
+p.merri-light{
+    font-style: italic;
+    font-weight: 300;
+}
+
+p.merri-bold{
+    font-weight: 700;
+}
+
+p.shan-light{
+    font-family: 'Shantell Sans';
+    font-weight: 300;
+    font-style: italic;
+}
+
+p.shan-regular{
+    font-family: 'Shantell Sans';
+}
+
+p.shan-medium{
+    font-family: 'Shantell Sans';
+    font-weight:500;
+}
+
+div.textstyles{
+    border: dotted 1px black;
+}
+
+h2.title{
+    text-align: center;
+}
+
+p.heading1{
+    font-weight: 700;
+    font-family:'Shantell Sans';
+    font-size: 50px;
+}
+
+p.heading2{
+    font-weight: 600;
+    font-family: 'Shantell Sans';
+    font-size: 30px;
+}
+
+p.paragraph{
+    font-size: 18px;
+}
